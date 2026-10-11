@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novanyx999677-collab.github.io/bestridedeals-usa/sitemap.xml
